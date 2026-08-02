@@ -1,0 +1,29 @@
+DAY-2
+Content of the day : 
+Prompt Engineering is the skill of writing smart, structured prompts to get more accurate answers, better creativity, expert-level outputs, fewer hallucinations, and faster workflows. Just like Googling well is a skill, prompting well is now a modern tech skill.
+I compared both outputs and observed the differences in explanation quality, structure, examples, and image design.
+
+1st - normal prompt : Create an image explaining Prompt Engineering.
+2nd - Engineered Prompt : 
+You are an AI education assistant. Explain Prompt Engineering to complete beginners in simple, accessible language. Include:
+
+Section 1: Explanation
+- What Prompt Engineering is
+- Why it matters when using AI tools (e.g., Claude)
+- Three practical benefits of writing better prompts (brief, concrete)
+
+Section 2: Prompt Examples
+- One example of a weak prompt
+- One example of an improved prompt
+- Brief note highlighting what was improved
+
+Section 3: LinkedIn-ready Image Concept
+- Image size: 1080×1080 (square)
+- Color palette: Claude-inspired brown, beige, cream; professional and minimal
+- Main title: "Prompt Engineering"
+- Visual comparison: Left side shows "Weak Prompt → Basic Output"; Right side shows "Engineered Prompt → Better Output"
+- Subheading or badge: " abtalks 60 days claude challenge" included in the heading area as requested
+- Suggested composition: clean typography, subtle icons illustrating comparison (e.g., a simple prompt icon and a richer output icon)
+- Deliverables: a text prompt you could paste into an image generator (e.g., Midjourney, Stable Diffusion) to produce the image
+
+Please keep the language clear and provide concise bullets and short examples. 
