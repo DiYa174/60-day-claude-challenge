@@ -12,3 +12,10 @@ DAY-2
 2nd Output(Engineered Prompt):
 
 <img width="765" height="1024" alt="IMG-2" src="https://github.com/user-attachments/assets/b9522400-cf76-4a89-8572-2214ce6cd63c" />
+
+DAY-3
+
+Output:
+
+<img width="1024" height="1024" alt="WhatsApp Image 2026-08-03 at 5 25 34 PM" src="https://github.com/user-attachments/assets/c494dcb5-b015-4d17-965a-aaa3e95c6de9" />
+
