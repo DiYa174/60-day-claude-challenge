@@ -1,0 +1,46 @@
+Day-3
+
+Learnings:-
+
+Role-Based Prompting means assigning Claude a specific persona before asking a question. Instead of receiving generic answers, you receive responses from the perspective of a domain expert.
+
+Persona-driven responses: Different roles generate different styles of thinking and recommendations.
+
+Higher quality outputs: Role prompts help Claude provide more relevant and specialized answers.
+
+Better decision making: You can view problems from multiple professional perspectives.
+
+Real-world simulation: Claude can act as a Founder, Developer, Product Manager, HR Manager, Marketer, Consultant, and more.
+
+Prompt:
+
+You are an AI educator for complete beginners. Create a concise, easy-to-understand guide on Role-Based Prompting with clear, actionable sections. Include:
+
+1) What Role-Based Prompting is, in simple terms.
+2) Why it matters when using AI tools like Claude.
+3) How assigning a role changes the quality and relevance of AI responses.
+4) One sample prompt without a role.
+5) One sample prompt with a role.
+6) Three practical benefits of Role-Based Prompting (bullet points).
+
+Additionally, provide a LinkedIn-ready image concept meeting the following specs:
+
+- Format: Square image (1080×1080)
+- Color palette: Claude-inspired brown, beige, and cream
+- Style: Professional, minimal
+- Main title: "Role-Based Prompting"
+- Subheading: "ABTalks 60-Day Claude AI Mastery Challenge"
+- Subtitle: "Turn Claude into Any Expert You Need"
+- Visual element: Comparison panel showing
+  - Without Role Prompt → Generic Answer
+  - With Role Prompt → Expert-Level Answer
+- Persona cards to include (visual: small cards or icons):
+  Developer, Product Manager, HR Manager, Founder, Marketer
+
+Deliverables:
+- A clearly structured text guide (with simple language and short bullets).
+- A detailed image concept description suitable for a designer or AI image tool, including layout, typography cues, and example copy placement for the visual comparison and persona cards.
+- Optional alt text for accessibility.
+
+Please confirm any assumptions or request adjustments before proceeding.
+Generate an image for this.
