@@ -19,3 +19,6 @@ Output:
 
 <img width="1024" height="1024" alt="WhatsApp Image 2026-08-03 at 5 25 34 PM" src="https://github.com/user-attachments/assets/c494dcb5-b015-4d17-965a-aaa3e95c6de9" />
 
+DAY-4
+
+<img width="609" height="1104" alt="WhatsApp Image 2026-08-04 at 11 58 48 PM" src="https://github.com/user-attachments/assets/24760ba4-adbd-4f62-b7f9-d64b33ef103c" />
