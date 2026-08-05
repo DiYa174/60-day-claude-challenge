@@ -22,3 +22,20 @@ Output:
 DAY-4
 
 <img width="609" height="1104" alt="WhatsApp Image 2026-08-04 at 11 58 48 PM" src="https://github.com/user-attachments/assets/24760ba4-adbd-4f62-b7f9-d64b33ef103c" />
+
+DAY-5
+
+Output A :
+
+<img width="1600" height="4504" alt="30-day-ux-design-roadmap" src="https://github.com/user-attachments/assets/1ca70bd7-a1e7-4e2e-b86f-23c4a5bceec5" />
+
+Output B :
+
+<img width="1600" height="4317" alt="30-day-ux-design-roadmap-personalized" src="https://github.com/user-attachments/assets/f7556efd-d8df-4cf3-9d6a-6b9ce53973a9" />
+
+Comparison :
+
+<img width="1024" height="1299" alt="Comparison" src="https://github.com/user-attachments/assets/f13650cc-226e-45ff-bd83-d2789bea9246" />
+
+
+
