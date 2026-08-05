@@ -1,0 +1,52 @@
+DAY 5
+
+Learning : 
+
+Context Engineering is the practice of providing relevant information, constraints, background, goals, and user-specific details to AI before asking it to perform a task. The quality of context often matters more than the prompt itself.
+
+Personalized Outputs: Context allows Claude to generate recommendations tailored to your situation.
+
+Higher Accuracy: Claude makes fewer assumptions when it understands the full picture.
+
+Better Planning: Context enables more realistic and actionable roadmaps.
+
+Real-world AI Systems: Modern AI agents rely heavily on context engineering, memory, and retrieval.
+
+PROMPT A (WITHOUT CONTEXT):
+
+Create a 30-day learning roadmap.
+
+Include:
+- Weekly milestones
+- Daily tasks
+- Resources
+- Projects
+- Final outcome
+
+Make it practical and beginner-friendly.
+
+PROMPT B (WITH CONTEXT)
+
+Create a 30-day learning roadmap.
+
+Context:
+- Current Situation: [Student]
+- Current Skills: [Python, Web Development, Data Analysis, Design]
+- Goal: [1 year]
+- Available Time: [2-3]
+- Experience Level: [Beginner]
+- Preferred Learning Style: [Projects]
+
+Include:
+- Weekly milestones
+- Daily tasks
+- Resources
+- Projects
+- Final outcome
+
+Make it practical and beginner-friendly.
+
+Compare both outputs and identify:
+1. Which roadmap feels more personalized?
+2. Which roadmap would you actually follow?
+3. What role did context play in improving the result?
