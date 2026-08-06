@@ -37,5 +37,17 @@ Comparison :
 
 <img width="1024" height="1299" alt="Comparison" src="https://github.com/user-attachments/assets/f13650cc-226e-45ff-bd83-d2789bea9246" />
 
+DAY-6
 
+Original Resume:
+
+<img width="623" height="817" alt="image" src="https://github.com/user-attachments/assets/f4ed82a6-625e-4e84-a897-386243ab7dcd" />
+
+Optimized Resume:
+
+<img width="903" height="1278" alt="image" src="https://github.com/user-attachments/assets/5f6c7dfd-8e4b-4f3c-9e60-5c3be613b38d" />
+
+AI Resume Optimization:
+
+<img width="2160" height="2222" alt="image" src="https://github.com/user-attachments/assets/f8d6921e-5df2-4e0c-ae49-0e710157f454" />
 
