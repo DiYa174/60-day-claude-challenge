@@ -51,3 +51,9 @@ AI Resume Optimization:
 
 <img width="2160" height="2222" alt="image" src="https://github.com/user-attachments/assets/f8d6921e-5df2-4e0c-ae49-0e710157f454" />
 
+DAY-7
+
+Output:
+
+<img width="2800" height="6264" alt="image" src="https://github.com/user-attachments/assets/0760e749-6111-4087-ad4f-a031a5542201" />
+
