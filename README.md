@@ -57,3 +57,15 @@ Output:
 
 <img width="2800" height="6264" alt="image" src="https://github.com/user-attachments/assets/0760e749-6111-4087-ad4f-a031a5542201" />
 
+DAY-8
+
+Output:
+
+<img width="906" height="919" alt="Output-1" src="https://github.com/user-attachments/assets/83fa873d-2643-4cc2-b065-3112afb53bdb" />
+
+<img width="903" height="922" alt="Output-2" src="https://github.com/user-attachments/assets/dfa7a710-ff54-46a1-b9e7-92135ed0d893" />
+
+<img width="1600" height="719" alt="Output-3" src="https://github.com/user-attachments/assets/f5d52b8a-34e3-4fc2-9469-7ea4ebda6b7e" />
+
+<img width="1453" height="614" alt="Output-4" src="https://github.com/user-attachments/assets/89e64a1a-db90-4854-90cf-75c20104b586" />
+
