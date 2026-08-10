@@ -80,3 +80,20 @@ Output:
 <img width="1243" height="863" alt="image" src="https://github.com/user-attachments/assets/0e8a8a89-d05d-49dd-be8d-2abe3e0b6db9" />
 
 <img width="1234" height="905" alt="image" src="https://github.com/user-attachments/assets/2535c64b-690b-4005-b6de-c3dd41f93b74" />
+
+DAY-10
+
+Output:
+
+<img width="1887" height="803" alt="image" src="https://github.com/user-attachments/assets/7c4283ca-42d6-4d95-90ea-13256343c9c5" />
+
+<img width="1600" height="824" alt="image" src="https://github.com/user-attachments/assets/83f93593-3028-4ac8-a504-7695c626ca32" />
+
+<img width="1521" height="797" alt="image" src="https://github.com/user-attachments/assets/a6e44e40-077c-4347-874f-078b2e327f1b" />
+
+<img width="1445" height="765" alt="image" src="https://github.com/user-attachments/assets/0f4be135-164c-4490-81dc-e0f7a84d8ea0" />
+
+<img width="1479" height="848" alt="image" src="https://github.com/user-attachments/assets/8f280336-86f6-40f7-a1f8-603bc9d1fc1b" />
+
+<img width="1469" height="853" alt="image" src="https://github.com/user-attachments/assets/65eeede0-6e84-4c0e-af0d-d9f4bcbef9c5" />
+
