@@ -97,3 +97,14 @@ Output:
 
 <img width="1469" height="853" alt="image" src="https://github.com/user-attachments/assets/65eeede0-6e84-4c0e-af0d-d9f4bcbef9c5" />
 
+DAY-11
+
+Output:
+
+<img width="1080" height="1512" alt="1" src="https://github.com/user-attachments/assets/23e261e4-fc3d-4a62-9676-31e5ed580e7a" />
+
+<img width="1080" height="1512" alt="2" src="https://github.com/user-attachments/assets/7fb4f4fe-cbc5-40d1-8250-51aad720ab71" />
+
+<img width="1080" height="1512" alt="3" src="https://github.com/user-attachments/assets/865910df-e7d5-4f9a-a7b2-5534b24292b0" />
+
+<img width="1080" height="1512" alt="4" src="https://github.com/user-attachments/assets/aa1d5837-b7f6-4829-b58b-f69d2d31fd89" />
