@@ -125,3 +125,12 @@ Output:
 
 <img width="1500" height="1500" alt="slide-6" src="https://github.com/user-attachments/assets/b4d2cd09-7113-4fa4-a2f1-86417c363d6b" />
 
+DAY-13
+
+Output:
+
+<img width="720" height="1000" alt="image" src="https://github.com/user-attachments/assets/d314079d-bfab-40c5-bb8e-b6488e361eb4" />
+
+<img width="720" height="1000" alt="image" src="https://github.com/user-attachments/assets/07e6907d-d1ed-461a-b9ab-49c6744792d9" />
+
+<img width="720" height="1000" alt="image" src="https://github.com/user-attachments/assets/420616c1-0f39-4cb9-ab35-bc55c88c5e38" />
