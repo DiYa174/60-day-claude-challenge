@@ -134,3 +134,9 @@ Output:
 <img width="720" height="1000" alt="image" src="https://github.com/user-attachments/assets/07e6907d-d1ed-461a-b9ab-49c6744792d9" />
 
 <img width="720" height="1000" alt="image" src="https://github.com/user-attachments/assets/420616c1-0f39-4cb9-ab35-bc55c88c5e38" />
+
+DAY-14
+
+Output:
+
+<img width="1440" height="2272" alt="image" src="https://github.com/user-attachments/assets/2cefbc19-5e85-4684-8679-945323c9b87c" />
