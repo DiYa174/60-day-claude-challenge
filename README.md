@@ -154,3 +154,18 @@ Output:
 <img width="1200" height="840" alt="image" src="https://github.com/user-attachments/assets/02c4adc5-2968-4b25-81d1-41dcb1fdbc61" />
 
 <img width="1200" height="840" alt="image" src="https://github.com/user-attachments/assets/d791ab7e-99aa-4c8a-b6e4-5e55f5970bd4" />
+
+DAY-16
+
+Output:
+
+<img width="1125" height="1065" alt="image" src="https://github.com/user-attachments/assets/e5a671d4-3086-4881-9d36-3e4c663603c6" />
+
+<img width="1125" height="1065" alt="image" src="https://github.com/user-attachments/assets/20c79ff2-7515-430d-92d3-53002f1951d3" />
+
+<img width="1125" height="1065" alt="image" src="https://github.com/user-attachments/assets/2ffe3ef0-3238-450e-867a-859bb367ee6a" />
+
+<img width="1125" height="1065" alt="image" src="https://github.com/user-attachments/assets/1b072b31-0591-481d-bffd-4f9d63c984cb" />
+
+<img width="1125" height="1065" alt="image" src="https://github.com/user-attachments/assets/396e3e0b-f58f-4019-b9c4-cf2dba3990ed" />
+
