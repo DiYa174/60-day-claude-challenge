@@ -181,3 +181,9 @@ Output:
 
 <img width="1600" height="343" alt="4" src="https://github.com/user-attachments/assets/fbb6e089-c793-4b57-9718-52cc89be9725" />
 
+DAY-18
+
+Output:
+
+<img width="1326" height="602" alt="Output" src="https://github.com/user-attachments/assets/d840ee9f-9423-4db4-8b1a-7fc9f37e1568" />
+
