@@ -386,3 +386,22 @@ Output:
 <img width="945" height="887" alt="5" src="https://github.com/user-attachments/assets/d3a80cff-c69c-4bef-8ef6-747d13e32443" />
 
 <img width="961" height="885" alt="6" src="https://github.com/user-attachments/assets/b3667931-792e-4e4e-bf4b-f6d6320b2807" />
+
+DAY-30
+
+Output:
+
+<img width="872" height="892" alt="1" src="https://github.com/user-attachments/assets/4c9a4933-07f3-4cd4-a0bc-d131c203f1bd" />
+
+<img width="972" height="892" alt="2" src="https://github.com/user-attachments/assets/2d12a785-549d-4fd1-a0a0-517d9b396a06" />
+
+<img width="952" height="852" alt="3" src="https://github.com/user-attachments/assets/3e504b7f-6d15-4f7b-813a-c53eff64ae41" />
+
+<img width="965" height="847" alt="4" src="https://github.com/user-attachments/assets/54f3ac27-39f6-45d0-aa77-0d072a07445d" />
+
+<img width="965" height="757" alt="5" src="https://github.com/user-attachments/assets/cc03e4e6-3ad7-48e6-a891-5e42690d3896" />
+
+<img width="970" height="696" alt="6" src="https://github.com/user-attachments/assets/f7e2b84e-774e-4111-8a10-a444fa9be4f7" />
+
+<img width="972" height="857" alt="7" src="https://github.com/user-attachments/assets/19b92839-ccbd-4134-8580-3f7687655f75" />
+
