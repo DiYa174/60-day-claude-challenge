@@ -371,3 +371,18 @@ Output:
 
 <img width="920" height="852" alt="7" src="https://github.com/user-attachments/assets/3eebb8a3-bf1d-4668-ae44-bfdc01680f00" />
 
+DAY-29
+
+Output:
+
+<img width="977" height="877" alt="1" src="https://github.com/user-attachments/assets/b46b6f6a-1c62-46a9-9a73-b8c124062213" />
+
+<img width="950" height="872" alt="2" src="https://github.com/user-attachments/assets/2f09d488-86b7-4c26-bbbf-6c30aaf74cb1" />
+
+<img width="956" height="832" alt="3" src="https://github.com/user-attachments/assets/4445b132-141f-4ff2-94bc-78cf8b59d881" />
+
+<img width="975" height="857" alt="4" src="https://github.com/user-attachments/assets/a0b19973-2985-49c5-b2a7-686c4d95cbff" />
+
+<img width="945" height="887" alt="5" src="https://github.com/user-attachments/assets/d3a80cff-c69c-4bef-8ef6-747d13e32443" />
+
+<img width="961" height="885" alt="6" src="https://github.com/user-attachments/assets/b3667931-792e-4e4e-bf4b-f6d6320b2807" />
